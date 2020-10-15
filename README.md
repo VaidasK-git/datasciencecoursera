@@ -1,2 +1,2 @@
 # datasciencecoursera
-Courcera Course Project Repo
+Coursera Course Project Repo
